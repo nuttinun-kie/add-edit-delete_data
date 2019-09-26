@@ -1,0 +1,68 @@
+body{
+	background-color: #a0a0a052;
+	color: #565656;
+}
+div {
+	display: block;
+}
+th{
+	background-color: #a0a0a052;
+}
+.navbar{
+	background-color: #9a9a9a54;
+	border-radius: 0;
+	border-color: #000000;
+}
+.navbar-fixed-top{
+	position: fixed;
+	z-index: 3000;
+}
+.footer{
+	background-color: #9a9a9a54;
+	border-radius: 0;
+	border-color: #000000;
+	padding: 20px;
+}
+.footer-padding {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.footer-fixed-top{
+	position: fixed;
+	z-index: 3000;
+}
+.container-fluid{
+	width: 100%;
+	padding-right: 150px !important;
+	padding-left: 150px !important;
+	margin-right: auto;
+	margin-left: auto;
+}
+.dp_daypicker{
+	background-color: white;
+}
+.Zebra_DatePicker {
+	font-size: 18px !important;
+	background: #000 !important;
+}
+.dp_header{
+	color: white;
+}
+.dp_clear{
+	color: white;
+}
+.dp_today{
+	color: white;
+}
+.dp_monthpicker{
+	color: white;
+}
+.dp_yearpicker{
+	color: white;
+}
+.dataTables_filter{
+	float: right;
+}
+.pagination{
+	float: right;
+}
